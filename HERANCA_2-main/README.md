@@ -1,18 +1,39 @@
-## Getting Started
+HERANÇA_2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto tem como objetivo implementar um sistema informatizado para cadastro de vendedores, gerentes e clientes de uma empresa. O projeto utiliza o conceito de herança para compartilhar atributos comuns entre as classes e garantir um código mais organizado e reutilizável.
 
-## Folder Structure
+🚀 Enunciado:
+Uma empresa necessita de um sistema informatizado onde serão cadastrados todos os vendedores, gerentes e clientes.
 
-The workspace contains two folders by default, where:
+Os dados de um vendedor são: nome, CPF, data de nascimento, data de contratação, salário base, e percentual de comissão.
+Os dados de um gerente são: nome, CPF, data de nascimento, data de contratação, salário base, e departamento.
+Os dados de um cliente são: nome, CPF, data de nascimento, email, número do cartão de fidelidade e telefone.
+Cada classe deve ter seus atributos encapsulados e métodos construtores para inicialização dos dados. A ideia principal é utilizar herança para evitar repetição de código e facilitar o gerenciamento dessas informações.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+📋 Pré-requisitos
+Você precisará das seguintes ferramentas instaladas para rodar o projeto:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java JDK 23
+Visual Studio Code
+Git
+GitHub
+🔧 Instalação
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Clone o repositório no seu computador
+Abra o projeto no Visual Studio Code
+Compile e execute o projeto
 
-## Dependency Management
+🛠 Construído com
+Ferramentas e tecnologias utilizadas no desenvolvimento:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Java JDK 23 
+Visual Studio Code - IDE 
+Git
+
+📌 Versão
+Versão 1.0 - Implementação inicial do projeto com as classes principais.
+Versão 1.1 - Refatoração de código e melhorias (09/09/24).
+
+✒ Autor
+Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - HERANÇA 1/4 - AC2
+
