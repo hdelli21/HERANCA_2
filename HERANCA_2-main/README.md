@@ -32,7 +32,7 @@ Git
 
 📌 Versão
 Versão 1.0 - Implementação inicial do projeto com as classes principais.
-Versão 1.1 - Refatoração de código e melhorias (09/09/24).
+Versão 1.1 - Refatoração de código e melhorias (17/09/24).
 
 ✒ Autor
 Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - HERANÇA 2/4 - AC2
